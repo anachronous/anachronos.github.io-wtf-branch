@@ -10,6 +10,7 @@ title = "Hugo ʕ•ᴥ•ʔ Bear Blog"
 author = "Jane Doe"
 copyright = "Copyright © 2020, Jane Doe."
 languageCode = "en-US"
+contentDir = "content/posts"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
