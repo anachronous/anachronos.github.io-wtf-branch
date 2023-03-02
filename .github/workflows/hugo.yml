@@ -24,6 +24,7 @@ concurrency:
 defaults:
   run:
     shell: bash
+    working-directory: dumpster-fire
 
 jobs:
   # Build job
